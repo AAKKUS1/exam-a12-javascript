@@ -1,6 +1,6 @@
 function greetings(isStudent) {
 	if (isStudent == true){
-      return "Bienvenu cher élève"
+      return "Bienvenue cher élève"
     }
   else{
     return "Bienvenue cher parent"

@@ -1,4 +1,4 @@
-
+    
 function moyenne(tab) {
   
     var n = tab.length;
